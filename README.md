@@ -1,11 +1,5 @@
-<style>
-  body {
-    font-family: "Merriweather", serif;
-  }
-</style>
-
 # <span style="color: #ffac08; font-size: 50px;" > Object-Oriented Programming </span>
-<span style="color: #ffac4a; font-size: 40px;"> 1 - before OOP and OOP & Programming Paradigm </span> <br>
+## <span style="color: #ffac4a; font-size: 40px;"> 1 - before OOP and OOP & Programming Paradigm </span> <br>
 
 <span style="color: #dc8d00; font-size: 20px;"> Before you understand what OOP (Object-Oriented Programming) is, you need to know what existed before it and the problems that led to the emergence of OOP. </span> <br> <br>
 
