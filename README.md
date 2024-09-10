@@ -1,7 +1,7 @@
 # <span style="color: #ffac08; font-size: 50px;" > Object-Oriented Programming </span>
 ## <span style="color: #ffac4a; font-size: 40px;"> 1 - before OOP and OOP & Programming Paradigm </span> <br>
 
-<span style="color: #dc8d00; font-size: 20px;"> Before you understand what OOP (Object-Oriented Programming) is, you need to know what existed before it and the problems that led to the emergence of OOP. </span> <br> <br>
+##### <span style="color: #dc8d00; font-size: 20px;"> Before you understand what OOP (Object-Oriented Programming) is, you need to know what existed before it and the problems that led to the emergence of OOP. </span> <br> <br>
 
 <span style="color: #dc8d00; font-size: 20px;"> Before OOP appeared, we used to write code almost on top of each other with no organization or structure. When I needed to modify the code, everything could break, and I might have to edit several parts of the code just for one small change. So, there was no organization or ease in making modifications. There were different ways of writing code called programming paradigms, including: </span> <br> <br>
 
